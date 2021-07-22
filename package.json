@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/willianmatheus98.lwc-communicate-from-parent-to-child",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "wcd-cli serve SR2cFvMxG5qDpYvZiFJQ --open"
+  }
+}
